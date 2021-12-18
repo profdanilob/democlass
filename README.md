@@ -1,5 +1,5 @@
 # democlass
-Demonstração do uso do Git
+Demonstração do uso do Git/Github
 
 - No deseolvimento desse projeto estão:
     - Teofilo
